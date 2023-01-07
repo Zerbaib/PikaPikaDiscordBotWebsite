@@ -4,13 +4,13 @@ header nav a {
     padding-left: 10px;
 }
 
-ul {
+.navbar-nav mr-auto {
     list-style-type: none;
     margin: 0px;
     padding: 5px;
 }
 
-ul li {
+.navbar-nav mr-auto li {
     padding-left: 10px;
 }
 
