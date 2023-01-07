@@ -9,6 +9,7 @@ ul {
 .home {
     padding-top: 10rem;
     padding-left: 10rem;
+    padding-right: 34rem;
 }
 
 .home a {
@@ -16,11 +17,14 @@ ul {
     text-decoration: none;
 }
 
-.home a:hover {
-    color: gold;
-    transition: 1s;
-}
-
 .home h1 img {
     padding-bottom: 10px;
+}
+
+main{
+    padding-top: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
 }
