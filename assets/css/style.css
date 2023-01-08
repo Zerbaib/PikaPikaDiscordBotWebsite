@@ -36,3 +36,10 @@ main {
     justify-content: space-around;
     text-align: center;
 }
+
+.btnadd{
+background: #ffcf2a;
+border: none;
+padding: 10px;
+border-radius: 10px;
+}
