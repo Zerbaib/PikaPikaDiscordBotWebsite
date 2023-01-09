@@ -5,6 +5,13 @@
 }
 
 @media (max-width: 768px) {
+    .home {
+        padding-left: 35px;
+        padding-top: 10px;
+    }
+    .card_pika {
+        width: 300px;
+    }
     main {
         display: inline;
         padding-top: 0px;
@@ -13,15 +20,21 @@
 
 @media (max-width: 425px) {
     .home {
-        padding-left: 117px;
+        padding-left: 97px;
         padding-top: 10px;
+    }
+    .card_pika {
+        width: 170px;
     }
 }
 
 @media (max-width: 375px) {
     .home {
-        padding-left: 92px;
+        padding-left: 80px;
         padding-top: 10px;
+    }
+    .card_pika {
+        width: 160px;
     }
 }
 
@@ -29,5 +42,8 @@
     .home {
         padding-left: 65px;
         padding-top: 10px;
+    }
+    .card_pika {
+        width: 150px;
     }
 }
