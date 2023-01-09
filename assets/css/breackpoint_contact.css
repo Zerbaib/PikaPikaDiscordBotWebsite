@@ -44,11 +44,14 @@
 
 @media (max-width: 425px) {
     .home {
-        padding-left: 97px;
+        padding-left: 50px;
         padding-top: 10px;
     }
     .card_pika {
         width: 170px;
+    }
+    main{
+        padding-top: 1rem;
     }
 }
 
@@ -59,6 +62,9 @@
     }
     .card_pika {
         width: 160px;
+    }
+    main{
+        padding-top: 10px;
     }
 }
 
