@@ -1,11 +1,19 @@
-@media (max-width: 700px) {
-    main {
-        display: inline;
-    }
-}
-
 @media (max-width: 1000px){
     .card_pika {
         width: 140px;
+    }
+}
+
+@media (max-width: 768px) {
+    main {
+        display: inline;
+        padding-top: 0px;
+    }
+}
+
+@media (max-width: 320px) {
+    .home {
+        padding-left: 65px;
+        padding-top: 10px;
     }
 }
