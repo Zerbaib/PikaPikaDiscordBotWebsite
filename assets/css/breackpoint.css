@@ -11,6 +11,13 @@
     }
 }
 
+@media (max-width: 425px) {
+    .home {
+        padding-left: 117px;
+        padding-top: 10px;
+    }
+}
+
 @media (max-width: 375px) {
     .home {
         padding-left: 92px;
