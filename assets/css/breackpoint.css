@@ -1,12 +1,25 @@
-@media (max-width: 1000px){
+@media (max-width: 1440px){
+    .article {
+        padding-top: 200px;
+    }
+}
+
+@media (max-width: 1024px){
     .card_pika {
-        width: 140px;
+        width: 400px;
+    }
+    .home {
+        padding-left: 100px;
+        padding-top: 20px;
+    }
+    .article {
+        padding-top: 200px;
     }
 }
 
 @media (max-width: 768px) {
     .home {
-        padding-left: 35px;
+        padding-left: 70px;
         padding-top: 10px;
     }
     .card_pika {
