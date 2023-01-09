@@ -53,34 +53,3 @@ border-radius: 10px;
     border-radius: 9px;
     width: 50%;
 }
-
-nav {
-    background-color: floralwhite;
-    padding: 1px;
-}
-
-nav div ul li a {
-    text-decoration: none;
-    color: black;
-}
-
-nav div ul{
-    display: flex;
-    list-style-type : none;
-}
-
-nav div ul li {
-    text-align: center;
-    display : inline-block;
-    width : 33;
-}
-
-nav div ul li {
-    padding-left: 50px;
-}
-
-.name {
-    text-align: center;
-    padding-left: 0px;
-    padding-top: 10px;
-}
