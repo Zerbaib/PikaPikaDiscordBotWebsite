@@ -41,3 +41,8 @@ li a:hover {
     padding-top: 5px;
     padding-left: 3px;
 }
+
+.nav-responsive {
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
