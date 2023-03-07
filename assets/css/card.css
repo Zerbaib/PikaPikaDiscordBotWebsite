@@ -1,5 +1,5 @@
 .home {
-    padding-top: 5rem;
+    padding-top: 4.5rem;
     padding-left: 10rem;
     padding-right: 10rem;
     overflow: hidden;
@@ -33,7 +33,7 @@
 }
 
 .descrition_card{
-    margin-bottom: 5px;
+    margin-bottom: 2px;
     margin-top: 5px;
     font-size: x-small;
     padding-left: 10px;
