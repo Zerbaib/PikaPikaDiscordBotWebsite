@@ -1,0 +1,69 @@
+@media (max-width: 320px) {
+    .home {
+        padding-left: 65px;
+        padding-top: 10px;
+    }
+    .card_pika {
+        width: 150px;
+    }
+}
+
+@media (max-width: 375px) {
+    .home {
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+    .card_pika {
+        width: 160px;
+    }
+}
+
+@media (max-width: 425px) {
+    .home {
+        overflow: auto;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .release {
+        float: none;
+    }
+    .beta {
+        float: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .release {
+        width: 265px;
+    }
+    .beta {
+        width: 265px;
+    }
+    .home {
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+    .article {
+        display: block;
+        padding-top: 0px;
+        padding-right: auto;
+    }
+}
+
+@media (max-width: 1024px){
+    .release {
+        width: 350px;
+    }
+    .beta {
+        width: 350px;
+    }
+    .home {
+        padding-left: 75px;
+        padding-top: 20px;
+        padding-right: 75px;
+        padding-bottom: 0px;
+    }
+    .article {
+        padding-top: 150px;
+    }
+}
