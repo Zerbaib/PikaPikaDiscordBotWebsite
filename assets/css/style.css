@@ -17,9 +17,10 @@ header nav a {
 }
 
 .home {
-    padding-top: 10rem;
+    padding-top: 5rem;
     padding-left: 10rem;
-    padding-right: 34rem;
+    padding-right: 10rem;
+    overflow: hidden;
 }
 
 .home a {
@@ -51,5 +52,15 @@ border-radius: 10px;
     color: black;
     padding: 17px;
     border-radius: 9px;
-    width: 50%;
+    width: 45%;
+    float:left;
+}
+
+.card_pikab{ 
+    background-color: wheat;
+    color: black;
+    padding: 17px;
+    border-radius: 9px;
+    width: 45%;
+    float:right;
 }
