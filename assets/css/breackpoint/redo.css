@@ -1,10 +1,10 @@
 @media (max-width: 320px) {
     .home {
-        padding-left: 65px;
-        padding-top: 10px;
+        padding-left: 5px;
+        padding-top: 5px;
     }
     .card_pika {
-        width: 150px;
+        width: 50px;
     }
 }
 
@@ -33,15 +33,17 @@
 }
 
 @media (max-width: 768px) {
-    .release {
+    #release.release {
+        width: 265px;
+
+    }
+    #beta.beta {
         width: 265px;
     }
-    .beta {
-        width: 265px;
-    }
-    .home {
+    #home.home {
         padding-left: 50px;
-        padding-top: 10px;
+        padding-right: 50px;
+        padding-top: 20px;
     }
     .article {
         display: block;
