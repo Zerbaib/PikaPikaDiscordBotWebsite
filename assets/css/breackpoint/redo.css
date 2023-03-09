@@ -19,16 +19,17 @@
 }
 
 @media (max-width: 425px) {
-    .home {
-        overflow: auto;
-        padding-left: 0px;
-        padding-right: 0px;
+    #home {
+        padding-top: 5px;
+        padding-left: 50px;
+        padding-right: 60px;
+        align-items: center;
     }
-    .release {
-        float: none;
+    #release.release {
+        align-items: center;
     }
-    .beta {
-        float: none;
+    #release.beta {
+        align-items: center;
     }
 }
 
