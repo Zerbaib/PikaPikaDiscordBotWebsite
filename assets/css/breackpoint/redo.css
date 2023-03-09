@@ -8,7 +8,7 @@
     }
 }
 
-@media (320px <= width <= 375px) {
+@media (321px <= width <= 375px) {
     .home {
         padding-left: 50px;
         padding-top: 10px;
@@ -18,30 +18,33 @@
     }
 }
 
-@media (375 <= width <= 425px) {
-    #home.home {
-        padding-top: 5px;
-        padding-left: 0px;
-        padding-right: 0px;
-        align-items: center;
+@media (376 <= width <= 425px) {
+    .release {
+        width: 265px;
     }
-    #release.release {
-        align-items: center;
+    .beta {
+        width: 265px;
     }
-    #release.beta {
-        align-items: center;
+    .home {
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 20px;
+    }
+    .article {
+        display: block;
+        padding-top: 0px;
+        padding-right: auto;
     }
 }
 
 @media (426px <= width <= 768px) {
-    #release.release {
-        width: 265px;
-
-    }
-    #beta.beta {
+    .release {
         width: 265px;
     }
-    #home.home {
+    .beta {
+        width: 265px;
+    }
+    .home {
         padding-left: 50px;
         padding-right: 50px;
         padding-top: 20px;
