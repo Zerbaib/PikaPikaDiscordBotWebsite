@@ -1,4 +1,4 @@
-@media (max-width: 320px) {
+@media (width <= 320px) {
     .home {
         padding-left: 5px;
         padding-top: 5px;
@@ -8,7 +8,7 @@
     }
 }
 
-@media (max-width: 375px) {
+@media (320px <= width <= 375px) {
     .home {
         padding-left: 50px;
         padding-top: 10px;
@@ -18,11 +18,11 @@
     }
 }
 
-@media (max-width: 425px) {
-    #home {
+@media (375 <= width <= 425px) {
+    #home.home {
         padding-top: 5px;
-        padding-left: 50px;
-        padding-right: 60px;
+        padding-left: 0px;
+        padding-right: 0px;
         align-items: center;
     }
     #release.release {
@@ -33,7 +33,7 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (426px <= width <= 768px) {
     #release.release {
         width: 265px;
 
@@ -53,7 +53,7 @@
     }
 }
 
-@media (max-width: 1024px){
+@media (769px <= width <= 1024px){
     .release {
         width: 350px;
     }
