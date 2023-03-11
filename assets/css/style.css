@@ -10,9 +10,7 @@ main {
     text-align: center;
 }
 
-.btnadd{
-background: #ffcf2a;
-border: none;
-padding: 10px;
-border-radius: 10px;
+footer {
+    text-align: center;
+    font-size: x-small;
 }
