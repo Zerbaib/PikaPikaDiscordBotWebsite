@@ -10,9 +10,8 @@ main {
     text-align: center;
 }
 
-.btnadd{
-background: #ffcf2a;
-border: none;
-padding: 10px;
-border-radius: 10px;
+.title {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 25px;
 }
