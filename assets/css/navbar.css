@@ -21,6 +21,10 @@ ul {
     width: 99%;
 }
 
+ul {
+    margin: 0px;
+}
+
 li {
     float: left;
     color: #333333;
