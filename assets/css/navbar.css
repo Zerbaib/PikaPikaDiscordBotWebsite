@@ -1,3 +1,7 @@
+nav {
+    background-color: #121212;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -6,19 +10,20 @@ ul {
 }
 
 ul {
-    border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
-    border-radius: 15px;
+    border: 1px solid #464545;
+    background-color: #353333;
+    border-radius: 10px;
 }
 
 ul {
     top: 0;
     left: 0;
-    width: 100%;
+    width: 99%;
 }
 
 li {
     float: left;
+    color: #333333;
 }
 
 li a {
@@ -26,11 +31,11 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    color: black;
+    color: #a3a3a3;
 }
 
 li a:hover {
-    background-color: #6767;
+    background-color: #232323;
 }
 
 .name {
