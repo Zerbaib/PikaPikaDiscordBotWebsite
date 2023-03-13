@@ -29,6 +29,10 @@ main {
     color: beige;
 }
 
+.article section {
+    border: solid white;
+}
+
 footer {
     color: beige;
     background-color: #121212;
