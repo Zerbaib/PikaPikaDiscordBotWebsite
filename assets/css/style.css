@@ -12,7 +12,7 @@ body {
 }
 
 main {
-    padding-top: 15rem;
+    padding-bottom: 0px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -20,12 +20,12 @@ main {
 }
 
 .home {
-    background-color: #121212;
+    background-color: #272727;
     color: beige;
 }
 
 main {
-    background-color: #121212;
+    background-color: #272727;
     color: beige;
 }
 
@@ -35,13 +35,13 @@ main {
 
 footer {
     color: beige;
-    background-color: #121212;
+    background-color: #272727;
     text-align: center;
     font-size: 10px;
 }
 
 footer p {
-    padding-top: 41px;
+    padding-top: 35.4px;
     margin: 0px;
     color: beige;
 }
